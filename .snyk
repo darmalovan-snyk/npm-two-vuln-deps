@@ -4,6 +4,6 @@ version: v1.7.0
 ignore:
   'npm:qs:20170213':
     - '@risingstack/trace > qs':
-        reason: None given
-        expires: '2017-04-06T23:42:32.599Z'
+      reason: None given
+      expires: '2017-04-06T23:42:32.599Z'
 patch: {}
