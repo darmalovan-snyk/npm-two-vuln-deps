@@ -58,7 +58,7 @@
     "winston-loggly-bulk": "^1.4.1",
     "winston-logstash": "^0.3.0",
     "winston-sentry": "^0.1.5",
-    "xss": "^0.3.3",
+    "xss": "^1.0.6",
     "xsslint": "^0.1.4",
     "zipcodes": "^2.1.0"
   },
