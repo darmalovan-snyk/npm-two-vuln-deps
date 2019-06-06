@@ -60,7 +60,7 @@
     "winston-sentry": "^0.1.5",
     "xss": "^0.3.3",
     "xsslint": "^0.1.4",
-    "zipcodes": "^2.1.0"
+    "zipcodes": "^8.0.0"
   },
   "optionalDependencies": {
     "hiredis": "^0.5.0"
